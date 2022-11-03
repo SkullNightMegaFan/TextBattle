@@ -1,0 +1,10 @@
+If you attack all the way through(by pressing 1) you will win the battle. 
+
+The hippie will heal when it's hp falls below 15. 
+
+You can also choose to heal using the heal spell(pressing 2 on a keyboard). It no longer works if your psi runs out.
+
+If you want to fast forward the battle you can use PkStarstorm and screenwipe the enemies. It does use all your PSI not that it matters.
+You can in fact lose by pressing other commands such as 3 or 4. You will do nothing, and the enemy hippie will still attack.
+
+If you press try 69 as a command you will instantly die and be made fun of, by the narrator AKA me. 
